@@ -1,0 +1,8 @@
+aws_region        = "us-east-1"
+project_name      = "conversales-techgrowth-prd"
+cidr_block        = "10.0.0.0/16"
+api_domain        = "api.conversales.techgrowth-labs.com.br"
+base_domain       = "conversales.techgrowth-labs.com.br"
+environment       = "prd"
+landing_page_domain_ptbr = "conversales.techgrowth-labs.com.br"
+landing_page_domain_enus = "conversales.techgrowth-labs.com"
